@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a hands-on product leader, I prototype ideas quickly, staying close to the technology. I love helping people navigate where AI, product strategy, and customer-centric innovation intersect. 
 
-I find inspiration in endurance sports - I'm a 4x marathon finisher. Athletics reminds me that dedication, community, and perseverance are key to moving forward—whether you’re crossing a finish line or launching a product.
+I find inspiration in endurance sports. Athletics reminds me that dedication, community, and perseverance are key to moving forward—whether you’re crossing a finish line or launching a product.
 
 ## Let’s Connect
 If you’re looking for someone who can build solutions end-to-end—ideating, coding prototypes, and operationalizing for scale—I’d love to connect. Feel free message me on LinkedIn or drop me an email.
